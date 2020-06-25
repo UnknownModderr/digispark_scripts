@@ -5,4 +5,4 @@ Here are some scripts for your Digispark, if you still use that shit. Was bored 
 I might add them or I might not who knows? 
 
 # Credits
-@UnknownModderr
+[*UnknownModder](https://github.com/UnknownModderr)
