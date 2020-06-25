@@ -1,1 +1,2 @@
-# digispark_scripts
+# Some shitty scripts I wrote because I was bored. 
+
